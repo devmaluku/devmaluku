@@ -10,8 +10,6 @@
 
 **[devmaluku](https://devmaluku.org/) is a delightfully discussion platform website in Maluku.** It's fast and easy to use, we believe that by bringing together people with the same interests can have a good influence on internet users in Maluku.
 
-with all the features you need to run a successful community. It is designed to be:
-
 ## Installation
  Before you install, it's important to check that your server support the requirements to run, you will need:
 * `Apache` (with mod_rewrite enabled) or `Nginx`
